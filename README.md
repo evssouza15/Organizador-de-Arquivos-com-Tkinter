@@ -1,2 +1,16 @@
-# Organizador-de-Arquivos-com-Tkinter
-O Organizador de Arquivos com Tkinter é uma aplicação desktop desenvolvida em Python que permite organizar automaticamente arquivos em pastas, de acordo com sua extensão (como .jpg, .pdf, .mp3, .txt, etc.). A interface foi criada com a biblioteca Tkinter, tornando o uso simples e intuitivo 
+# Organizador de Arquivos com Tkinter
+
+Um aplicativo simples desenvolvido em **Python** com **Tkinter** que organiza automaticamente seus arquivos em pastas conforme o tipo de extensão.  
+Ideal para quem quer manter suas pastas limpas e organizadas de forma rápida e visual!
+
+---
+
+## Funcionalidades
+
+- Interface gráfica feita com **Tkinter**.  
+- Seleciona a pasta de origem via navegador de diretórios.  
+- Move arquivos automaticamente para pastas conforme a extensão.  
+- Cria pastas novas se necessário (Imagens, Documentos, Músicas, Vídeos, etc.).  
+- Exibe mensagens de sucesso e progresso na tela.  
+- Fácil de usar — não precisa digitar comandos!
+
